@@ -1,0 +1,1 @@
+web: gunicorn JsonMockServer.wsgi --log-file -
